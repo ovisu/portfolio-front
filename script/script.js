@@ -61,7 +61,7 @@ for (var i = 0; i < 4; i++) {
 
     projAcess.href = "javascript:void(0);";
 
-    projAcess.innerText = "Disponível em breve";
+    projAcess.innerText = "Em breve";
 
     //mudança de estilo botao
     projAcess.classList.add("intro-link2");
@@ -81,7 +81,7 @@ for (var i = 0; i < 4; i++) {
 
     projAcess.href = "javascript:void(0);";
 
-    projAcess.innerText = "Disponível em breve";
+    projAcess.innerText = "Em breve";
 
     //mudança de estilo botao
     projAcess.classList.add("intro-link2");
