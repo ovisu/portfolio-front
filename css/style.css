@@ -187,7 +187,7 @@ li {
 }
 .introducao::after {
   content: "";
-  width: 1px;
+  width: 0.5px;
   height: 350px;
   display: inline-block;
   position: absolute;
